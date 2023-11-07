@@ -18,8 +18,8 @@
 - input and integer that corresponds with the action you would like to perform of the queue (options listed in the menu and the beginning)
 - enter "0" when you want to quit the program
 - ASSUMPTIONS:
-  -The queue holds strings as its item type (names)
-  -The program will throw an error and quit if front() or pop() is called on an empty queue
+  - The queue holds strings as its item type (names)
+  - The program will throw an error and quit if front() or pop() is called on an empty queue
 ### Other Information:
 - Screenshots of the output is located under "Part1Screenshots.docx" (for Part 1) and "Part2Screenshots.docx" (for Part 2)
 - The reason that the stack class only has a .h file and not a .cpp is to properly define namespace KW
