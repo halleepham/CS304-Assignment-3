@@ -73,6 +73,7 @@ int main() {
     else if(choice == 5){
       std::cout << "Returning the total number of elements in the queue...\n";
       std::cout << "Total number of items: " << queue.size() << "\n\n";
+      queue.printQueue();
     }
     else{
       std::cout << "Please enter a valid option.\n";
