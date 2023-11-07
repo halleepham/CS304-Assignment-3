@@ -24,3 +24,8 @@
 - Screenshots of the output is located under "Part1Screenshots.docx" (for Part 1) and "Part2Screenshots.docx" (for Part 2)
 - The reason that the stack class only has a .h file and not a .cpp is to properly define namespace KW
 - The reason that the queue class only has a .h file and not a .cpp is to properly define namespace KW
+- If code does not work and is throwing unsual errors, restart code
+- Coded on replit. If code doesn't compile on Visual Studio, try these Replit links:
+  - Part 1: https://replit.com/join/rtkdnwhhjx-halleepham
+  - Part 2: https://replit.com/join/zevbpwhjxd-halleepham
+- Email me if you have any questions and I will respond ASAP
