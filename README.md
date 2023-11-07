@@ -5,8 +5,8 @@
 - Run the main.cpp file
 - input an infix expression when prompted
 - enter 'q' when you want to quit the program
-\nASSUMPTIONS:
-- The user MUST enter the infix expression with spaces inbetween each character
-- The expression only contains numbers, operators, parentheses, and spaces
-- For example: 3 + { ( 4 * 7 ) / 2 } NOT: 3+{(4 * 7)/2}
+- ASSUMPTIONS:
+  - The user MUST enter the infix expression with spaces inbetween each character
+  - The expression only contains numbers, operators, parentheses, and spaces
+  - For example: 3 + { ( 4 * 7 ) / 2 } NOT: 3+{(4 * 7)/2}
 
